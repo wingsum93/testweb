@@ -2,8 +2,8 @@
 #build file
 bin/
 .gradle/
-
-
+build/
+.settings/
 
 .classpath
 .project
